@@ -1,3 +1,4 @@
+![logo](https://github.com/Samikhan2/SamiKhan2/blob/main/Software-Engineer.png)
 <h1 align="center">Hi 👋, I'm Sami Khan</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
